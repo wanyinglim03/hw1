@@ -3,3 +3,4 @@ This is the first version of the website I am creating for Lumos Helmet. The foc
 Questions that I have: 
 1. How to resize images?
 2. How to add videos?
+3. How to add space in between lines?
